@@ -137,13 +137,13 @@
 経常利益：Ordinary income  
                     
 特別利益（Special income）に関する会計英語  
-固定資産売却益：Gain on sale of property, plant and equipment and intangi  ble assets
+固定資産売却益：Gain on sale of property, plant and equipment and intangible assets  
 投資有価証券売却益：Gain on sale of investment securities  
 関係会社株式売却益：Gain on sale of shares of subsidiaries and affiliates  
                     
 特別損失（Special expenses）に関する会計英語  
-固定資産除却損：Loss on disposal of property, plant and equipment and int  angible assets
-固定資産売却損:Loss on sale of property, plant and equipment and intangi  ble assets
+固定資産除却損：Loss on disposal of property, plant and equipment and intangible assets  
+固定資産売却損:Loss on sale of property, plant and equipment and intangible assets  
 減損損失：Loss on impairment  
 投資有価証券評価損：Loss on devaluation of investment securities  
 投資有価証券売却損：Loss on sale of investment securities  
